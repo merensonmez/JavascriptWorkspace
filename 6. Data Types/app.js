@@ -65,7 +65,6 @@
 // console.log(human)
 // console.log(typeof human)
 
-
 // let numbers = [1,2,3,4,5];
 // console.log(typeof numbers);
 
