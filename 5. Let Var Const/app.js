@@ -10,7 +10,6 @@ let sayi=10;
 // var : function scope -- ram bellekte cok fazla yer kaplar.
 // let/const : block scope ozelligine sahiptir.
 
-
 // function sayHi(){
 //     var sayHi = "Hello everyone"; // function scope
 //     if(true){
